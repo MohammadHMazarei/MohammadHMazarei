@@ -17,7 +17,7 @@
 
 ## 💻 &nbsp;Languages and Tools
 
-<p align="center"><img src="https://skillicons.dev/icons?i=py,r,js,ts,cpp,c,java,latex,pytorch,tensorflow,nestjs,mongodb,postgres,redis,vscode,anaconda,git,linux,nginx,aws,&perline=20"><p>
+<p align="center"><img src="https://skillicons.dev/icons?i=py,r,js,ts,java,cpp,c,latex,pytorch,tensorflow,nestjs,mongodb,postgres,redis,vscode,anaconda,git,linux,nginx,aws,&perline=20"><p>
 
 ###
 
