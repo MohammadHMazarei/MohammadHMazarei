@@ -12,7 +12,7 @@
 ## 🎓 &nbsp;About me
 *I have a Bachelor's degree in ***Computer Engineering*** (🖥️) from the ***Shahid Chamran University of Ahvaz***.*
 
-*I find the field of ***Natural Language Processing*** and its branches incredibly fascinating.*.
+*I find the field of ***Natural Language Processing*** and its branches incredibly fascinating.*
 
 
 ## 💻 &nbsp;Languages and Tools
