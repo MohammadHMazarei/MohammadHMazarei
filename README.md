@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Mohammad Hosein and I'm a NLP Enthusiastic</h2>
+<h2 align="center">Hi 👋! My name is Mohammad Hosein and I'm an NLP Enthusiastic</h2>
 
 ###
 
