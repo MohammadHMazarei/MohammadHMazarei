@@ -12,7 +12,7 @@
 ## 🎓 &nbsp;About me
 *I'm currently pursuing a master's degree in ***Artificial Intelligence*** at ***Ferdowsi University of Mashhad***.*
 
-*I have a Bachelor's degree in ***Computer Engineering*** (🖥️) from the ***Shahid Chamran University of Ahvaz***.*
+*I have a Bachelor's degree in ***Computer Engineering*** from the ***Shahid Chamran University of Ahvaz***.*
 
 *I find the field of ***Machine Learning*** and its branches incredibly fascinating.*
 
