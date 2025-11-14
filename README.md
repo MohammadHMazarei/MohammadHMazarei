@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Mohammad Hosein and I'm an NLP Enthusiastic</h2>
+<h2 align="center">Hi 👋! My name is Mo, and I'm an ML Enthusiast</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 ## 🎓 &nbsp;About me
 *I have a Bachelor's degree in ***Computer Engineering*** (🖥️) from the ***Shahid Chamran University of Ahvaz***.*
 
-*I find the field of ***Natural Language Processing*** and its branches incredibly fascinating.*
+*I find the field of ***Machine Learning*** and its branches incredibly fascinating.*
 
 
 ## 💻 &nbsp;Languages and Tools
